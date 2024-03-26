@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+    
+.container-fluid {
+    margin-left: 10px;
+    justify-content: center;
+}
+
+.imagekostkasledem {
+    margin-left: 10px;
+}
+
+.bottomthings {
+    background-color:aqua;
+}
+
+.footer {
+    background-color:cornflowerblue;
+    text-align: center;
+}
+
+.videos {
+    background-color: aqua;
+}
